@@ -218,6 +218,14 @@ Border Radius: 12-16px
 
 ## How to Use These Assets
 
+### For Canva (Recommended for Quick Design)
+**See detailed guide:** `CANVA_GUIDE.md`
+1. Create presentation (16:9 format)
+2. Add custom color palette (hex codes provided)
+3. Use recommended fonts (Montserrat, Lexend, Poppins)
+4. Render Mermaid diagrams at mermaid.live → upload to Canva
+5. Follow step-by-step instructions for each key slide
+
 ### For Figma/Sketch/Adobe XD
 1. Create a new 1920x1080 canvas
 2. Use the layout specifications from `mockups/slide_mockups.md`
