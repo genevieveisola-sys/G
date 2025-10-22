@@ -16,6 +16,16 @@ This repository contains presentation materials, case studies, and reusable arti
 │   ├── RASCI_Template.md
 │   ├── Blueprint_Learning_Hub_Outline.md
 │   └── AI_Sprint_Kit_Template.md
+├── visuals/                # Visual diagrams and slide mockups
+│   ├── diagrams/           # Flowcharts, timelines, network maps
+│   │   ├── ouroboros_loop_diagram.md
+│   │   ├── meta_timeline_diagram.md
+│   │   ├── ring_90day_sprint_diagram.md
+│   │   ├── stakeholder_network_map.md
+│   │   └── risk_mitigation_matrix.md
+│   ├── mockups/            # Detailed slide layout specifications
+│   │   └── slide_mockups.md
+│   └── README.md
 └── README.md
 ```
 
@@ -58,6 +68,25 @@ Enablement and adoption strategy for design systems (based on Meta's Blueprint D
 #### AI Sprint Kit
 Reusable framework for rapid exploration and delivery of emerging technology features under tight timelines
 
+### Visual Diagrams & Slide Mockups
+
+Complete visual specifications to support creating the final slide deck:
+
+#### Diagrams
+- **Ouroboros Loop**: Circular flow diagram with 8 stages (Listen → Iterate) and three pillars
+- **Meta Timeline**: 1-year quarter-by-quarter breakdown, adoption curve, 3 parallel workstreams
+- **Ring 90-Day Sprint**: Dual-track timeline, three-lane sprint structure (UX/Brand/Strategy)
+- **Stakeholder Networks**: Network maps for Meta (10+ functions) and Ring (pod structure)
+- **Risk Matrices**: 2x2 grids, heatmaps, and escalation flows
+
+#### Slide Mockups
+- Detailed layout specifications for 8 key slides
+- Typography hierarchy and color palette
+- Animation recommendations
+- Design system guidelines
+
+**Formats:** ASCII art, Mermaid flowcharts, layout specifications for Figma, PowerPoint, Keynote, Google Slides
+
 ## Core Philosophy: The Ouroboros Approach
 
 A living system that keeps teams moving without hardening around a single solution:
@@ -85,6 +114,13 @@ A living system that keeps teams moving without hardening around a single soluti
 - Case study one-pagers can be used as portfolio pieces
 - Artifacts demonstrate practical, hands-on Design Ops work
 - Metrics and outcomes show measurable impact
+
+### For Creating Slides
+- Use visual diagrams as blueprints for final slide deck
+- Render Mermaid diagrams at mermaid.live for SVG/PNG export
+- Follow layout specifications in `visuals/mockups/slide_mockups.md`
+- Apply the design system (typography, colors, spacing) consistently
+- See `visuals/README.md` for complete slide-to-file mapping
 
 ## Key Metrics Summary
 
