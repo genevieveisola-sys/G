@@ -1,0 +1,13 @@
+{
+  "name": "quince-creative-operating-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Airtable implementation package for Quince Creative Operating System",
+  "scripts": {
+    "sync:schema": "node scripts/sync_airtable_schema.js",
+    "sync:schema:dry-run": "node scripts/sync_airtable_schema.js --dry-run"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
